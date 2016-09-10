@@ -1,16 +1,26 @@
 Problema:
 
 
-A empresa **QueroXis** decidiu fazer uma promoção relâmpago, em homenagem ao dia das mulheres, e para isso precisa de ajuda de um profissional de TI. O pessoal da empresa obteve uma lista de todas suas clientes e quer selecionar alguns nomes que ganharão um brinde especial: um bombom para cada pedido de xis por tele-entrega.
+A empresa **QueroXis** decidiu fazer uma promoção relâmpago, em homenagem ao dia das mulheres, e para isso precisa de ajuda de um
+profissional de TI. O pessoal da empresa obteve uma lista de todas suas clientes e quer selecionar alguns nomes que ganharão um brinde 
+especial: um bombom para cada pedido de xis por tele-entrega.
 
 
 
-Em vez de sortear os nomes, a empresa decidiu inovar sorteando uma letra inicial, que foi a letra "R". Agora, a empresa quer publicar em seu site a lista de ganhadoras, em ordem alfabética, mas precisa antes selecionar as clientes que começam com "R". O site da empresa é estático, feito em HTML, e o pessoal da empresa não faz a menor ideia de que basta colocar algumas tags (ul, li) em volta do nome para produzir uma lista bem apresentável. Pior ainda: o desenvolvedor do site está em férias no Caribe e não pode ajudá-los. Assim, eles lançaram uma chamada em http://www.rent-acoder.com/ para conseguir um profissional que os ajude.
+Em vez de sortear os nomes, a empresa decidiu inovar sorteando uma letra inicial, que foi a letra "R". Agora, a empresa quer publicar 
+em seu site a lista de ganhadoras, em ordem alfabética, mas precisa antes selecionar as clientes que começam com "R". O site da empre
+sa é estático, feito em HTML, e o pessoal da empresa não faz a menor ideia de que basta colocar algumas tags (ul, li) em volta do nome
+para produzir uma lista bem apresentável. Pior ainda: o desenvolvedor do site está em férias no Caribe e não pode ajudá-los. Assim, e
+les lançaram uma chamada em http://www.rent-acoder.com/ para conseguir um profissional que os ajude.
 
 
 
 Sua Solução:
 
-Você quer solucionar o problema para a empresa e aumentar sua popularidade no Rent a Coder. Como qualquer bom desenvolvedor, você odeia fazer tarefas repetitivas manualmente, então decide que fará um programa para gerar a lista de itens em HTML. A entrada do seu programa é a lista de TODOS os nomes das clientes, enviada pela empresa. A saída é a lista em HTML, em ordem alfabética, só com os nomes que iniciam com "R".
+Você quer solucionar o problema para a empresa e aumentar sua popularidade no Rent a Coder. Como qualquer bom desenvolvedor, você ode
+ia fazer tarefas repetitivas manualmente, então decide que fará um programa para gerar a lista de itens em HTML. A entrada do seu prog
+rama é a lista de TODOS os nomes das clientes, enviada pela empresa. A saída é a lista em HTML, em ordem alfabética, só com os nomes
+que iniciam com "R".
 
-**Detalhe**: você é iniciante e só conhece a linguagem C. Felizmente, você descobriu a função `qsort` da stdlib do C, que vai ajudar bastante seu trabalho. 
+**Detalhe**: você é iniciante e só conhece a linguagem C. Felizmente, você descobriu a função `qsort` da stdlib do C, que vai ajudar 
+bastante seu trabalho. 
